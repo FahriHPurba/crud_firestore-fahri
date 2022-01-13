@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "365321599916",
+    "project_id": "flutterfahri",
+    "storage_bucket": "flutterfahri.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365321599916:android:ef4eb67550f909e735d809",
+        "android_client_info": {
+          "package_name": "com.example.crud_firestrore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365321599916-00qpanbr4rgr3pvfvk96qo7ujaf0fc59.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crud_firestrore",
+            "certificate_hash": "ecdbce9aed82e31b6de6a8b68ce10b39ccebf762"
+          }
+        },
+        {
+          "client_id": "365321599916-io8kjal4fqoqare5hf3505gav04mc473.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATOlrv1oViJZbDIsvlm9sIPbvNPmw2kJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365321599916-io8kjal4fqoqare5hf3505gav04mc473.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
